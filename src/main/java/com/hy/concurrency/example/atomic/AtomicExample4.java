@@ -1,4 +1,4 @@
-package com.hy.concurrency.example.count.atomic;
+package com.hy.concurrency.example.atomic;
 
 import com.hy.concurrency.annoactions.ThreadSafe;
 import lombok.extern.slf4j.Slf4j;
